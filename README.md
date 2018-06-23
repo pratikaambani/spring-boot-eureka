@@ -1,18 +1,20 @@
-###Project title
+#Project title
 These services are part of Spring Cloud Practise.
 
-###Screens
+#Screens
 
-###Libraries used
+#Libraries used
 Spring Boot 1.4.1.RELEASE
 spring-cloud-starter-eureka-server
 
-###Features
+#Features
 These services can,
  - Boot up Eureka Server
+ - Boot up Eureka Client and register with Eureka Server
 
-###Installing
+#Installing
 Run EurekaServerApplication
+Run EurekaClientApplication
 
-###Developers
+#Developers
 Pratik Ambani(pratikaambani@gmail.com)
