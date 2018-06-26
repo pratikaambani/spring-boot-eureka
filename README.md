@@ -11,10 +11,12 @@ spring-cloud-starter-eureka-server
 These services can,
  - Boot up Eureka Server
  - Boot up Eureka Client and register with Eureka Server
+ - Listen to written services using Consumer
 
 #Installing
 Run EurekaServerApplication
 Run EurekaClientApplication
+Run EurekaConsumerApplication
 
 #Developers
 Pratik Ambani(pratikaambani@gmail.com)
